@@ -1,0 +1,19 @@
+---
+title: "SDS 410: Project Proposal 1"
+author: NAME HERE
+date: DATE HERE
+format: pdf
+editor: source
+---
+
+## Sponsor
+
+(100 words) In your own words, provide a brief description of the project sponsor organization here. 
+
+## Scope
+
+(100-200 words) In your own words, describe the problem that will be addressed in this project, Also, provide a broad overview of how you might approach it. 
+
+## Vision
+
+(100-200 words) In  your own words, describe what might result from this project. Be sure to describe both physical outputs *and the potential broader impacts of those outputs.* (e.g. how will they address problems/better society?) In this section, also describe, how your unique skills and interests can contribute to project success.  
