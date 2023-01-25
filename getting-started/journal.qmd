@@ -1,0 +1,49 @@
+---
+title: "journal"
+author: "ADD NAME HERE"
+format: pdf
+editor: source
+---
+
+### Professionalism
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Independent Problem-Solving
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Collaboration
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Project Planning
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Project Execution
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Communication (Written and Oral)
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
+### Data Ethics
+
+### January 1, 1900
+
+Today, I demonstrated this learning dimension by... Specifically, I ... This helped me grow by.../In the process, I learned that.../etc
+
