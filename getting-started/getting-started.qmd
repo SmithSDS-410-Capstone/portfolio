@@ -1,0 +1,10 @@
+---
+title: "getting-started"
+author: "ADD NAME HERE"
+format: html
+editor: source
+---
+
+1. Add your name to the YAML header above. If you are unsure how to do this, you may wish to reference [this webpage](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SDS-237-Data-Ethnography/portfolio/main/setting-up-r-environment/getting-started.html).
+2. Save getting.started.qmd.
+3. Stage and commit your code (see README for instructions.)
