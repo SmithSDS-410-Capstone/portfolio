@@ -31,8 +31,6 @@ install.packages("rmarkdown")
 library(rmarkdown)
 ```
 
-![RStudio Panels](images/rstudio_panels.png)
-
 11. On the initial install, the Files tab will be in the lower right hand corner of RStudio. Open the `getting-started` folder, and then open `getting-started.qmd`, and follow instructions.
 12. When the file tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
 
